@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Enes.<br><br>I am a 3rd year student at Selçuk University Computer Engineering.
+Hi, I am Enes.<br><br>I am a 4th year student at Selçuk University Computer Engineering.
 
 
 ## 🌐 Socials:
